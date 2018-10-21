@@ -1,0 +1,43 @@
+body{
+	background: url(https://images.homedepot-static.com/productImages/713d8123-7887-4150-b444-53eedce501e9/svn/sierra-wood-lifeproof-porcelain-tile-lp31624hd1pr-64_1000.jpg);
+}
+
+h1{
+	font-style: italic; 
+}
+
+li a{
+	color: red;
+}
+
+h4{
+	text-decoration: underline;
+}
+ul{
+	border: 2px solid lightslategrey
+}
+
+a[href="https://www.instagram.com"]{
+	text-decoration: line-through;
+}
+
+input[type="checkbox"]{
+
+}
+
+li:nth-of-type(odd){
+	background: rgba(100,100,100,.70);
+}
+
+li:nth-of-type(even){
+	background: rgba(150,150,100,.70);
+}
+
+.cdesign{
+	
+}
+
+#textspot{
+	background: rgba(175,100,57, .6);
+	border: 2px solid rgba(0,0,0,.4)
+}
